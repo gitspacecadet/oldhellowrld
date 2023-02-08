@@ -1,0 +1,30 @@
+{
+    "id":  "00000000-0000-0000-0000-000000000003",
+    "name":  "AvantechTST Base App Name",
+    "publisher":  "EHMZ Publisher",
+    "brief":  "",
+    "description":  "",
+    "version":  "1.0.0.0",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "application":  "21.0.0.0",
+    "platform":  "21.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50100,
+                         "to":  50199
+                     }
+                 ],
+    "showMyCode":  true,
+    "runtime":  "9.0",
+    "applicationInsightsKey": "00000000-0000-0000-0000-000000000000"
+}

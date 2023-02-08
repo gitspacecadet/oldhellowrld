@@ -1,0 +1,35 @@
+{
+    "id":  "00000000-0000-0000-0000-000000000001",
+    "name":  "AvantechTST App Name",
+    "publisher":  "EHMZ1 Publisher",
+    "brief":  "",
+    "description":  "",
+    "version":  "1.0.0.0",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+                         {
+                             "id":  "00000000-0000-0000-0000-000000000003",
+                             "publisher":  "EHMZ Publisher",
+                             "name":  "AvantechTST Base App Name",
+                             "version":  "1.0.0.0"
+                         }
+                     ],
+    "screenshots":  [
+
+                    ],
+    "application":  "21.0.0.0",
+    "platform":  "21.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50100,
+                         "to":  50199
+                     }
+                 ],
+    "showMyCode":  true,
+    "runtime":  "9.0",
+    "applicationInsightsKey": "00000000-0000-0000-0000-000000000000"
+}
