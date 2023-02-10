@@ -8,6 +8,9 @@
     },
     {
       "path": "AvantechTSTTestApp.Test"
+    },
+    {
+      "path": "HelloWorld.Test"
     }
   ],
   "settings": {
